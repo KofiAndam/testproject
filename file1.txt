@@ -1,6 +1,5 @@
-list of items 
-1. mango 
-2. orange 
-3. apple
-
-later TODO 
+f160a38 -Andam, 7 minutes ago : restored file.txt
+bfa427e -Andam, 43 minutes ago :  added todo list
+f88391a -Andam, 46 minutes ago :  added all files
+cf8f711 -Andam, 24 hours ago : we changed the file again
+807018f -Andam, 24 hours ago :  we added file.txt to be tracked by git
